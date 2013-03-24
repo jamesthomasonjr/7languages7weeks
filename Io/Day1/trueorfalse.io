@@ -1,6 +1,6 @@
 # Conditions are in parenthesis because
-# "false println" will print "false", but
-# "true println" will throw an exception
+# "false println" would print "false" for me,
+# but "true println" was throwing an exception
 
 # Is 0 true or false?
 (0 or false) println
